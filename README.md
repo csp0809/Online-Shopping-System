@@ -1,10 +1,10 @@
 Project: Online Shopping System
 
 Technologies Used: JSP, MySQL, JDBC, HTML, CSS, JavaScript, Apache Tomcat
+
 Description: Developed a full-stack web-based online shopping system that allows users to browse, select, and purchase products with secure data handling.
 
 Key Features:
-
 🔐 User Module:
 User registration and login with security questions
 Password recovery
